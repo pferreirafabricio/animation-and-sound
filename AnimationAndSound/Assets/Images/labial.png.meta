@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 329705633c11cbd41b315b06a23f57e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 251930493851824045
+    second: labial_A
+  - first:
+      213: -383019568946669061
+    second: labial_O
+  - first:
+      213: 5390538426452574054
+    second: labial_E
+  - first:
+      213: -9110626369089608368
+    second: labial_LN
+  - first:
+      213: -850322208955282849
+    second: labial_WR
+  - first:
+      213: -5278205404040189503
+    second: labial_TS
+  - first:
+      213: -5100252517783343376
+    second: labial_UQ
+  - first:
+      213: 5040326723663590663
+    second: labial_MBP
+  - first:
+      213: 3112753063152641895
+    second: labial_FV
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: labial_A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 73
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5112249, y: 0.6421447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf602a03790f7300800000000000000
+      internalID: 251930493851824045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labial_O
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 201
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.93531847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf919ea3bbd3faaf0800000000000000
+      internalID: -383019568946669061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labial_E
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 202
+        width: 68
+        height: 39
+      alignment: 9
+      pivot: {x: 0.49397457, y: 0.62606496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f7cc8732a0fca40800000000000000
+      internalID: 5390538426452574054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labial_LN
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 107
+        width: 60
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5068283, y: 0.6781354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0556b15669d809180800000000000000
+      internalID: -9110626369089608368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labial_WR
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 105
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0.51024276, y: 0.8133087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4896c47c0334f0800000000000000
+      internalID: -850322208955282849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labial_TS
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 66
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48758432, y: 0.6057321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c923a0762c00c6b0800000000000000
+      internalID: -5278205404040189503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labial_UQ
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 22
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: 0.47268525, y: 0.9097119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe6bbc7b534839b0800000000000000
+      internalID: -5100252517783343376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labial_MBP
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 26
+        width: 62
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49339172, y: 0.43854275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70570eb4376d2f540800000000000000
+      internalID: 5040326723663590663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labial_FV
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 24
+        width: 74
+        height: 30
+      alignment: 9
+      pivot: {x: 0.48892644, y: 0.47268614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767e8ba3b68b23b20800000000000000
+      internalID: 3112753063152641895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
