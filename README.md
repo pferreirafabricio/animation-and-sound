@@ -1,5 +1,5 @@
 <h1 align="right">
-  <img src="https://user-images.githubusercontent.com/42717522/165157572-1c8862d0-41db-472d-8e19-38789f19bf8c.png" width="200px" align="left" alt="Animation stickers created by inipagistudio - Flaticon" />
+  <img src="https://user-images.githubusercontent.com/42717522/165157572-1c8862d0-41db-472d-8e19-38789f19bf8c.png" width="200px" align="left" alt="Animation stickers created by inipagistudio - Flaticon" title="Animation stickers created by inipagistudio - Flaticon" />
   Animation and Sound
 </h1>
 
