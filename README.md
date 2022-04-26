@@ -17,8 +17,6 @@
 ## :eyes: Overview
 Put some images of your project here.
 
-> Take a look at: https://pferreirafabricio.github.io/digital-games-for-web/
-
 ## :open_book: About 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
