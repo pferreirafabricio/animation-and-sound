@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Door : MonoBehaviour
 {
-    [SerializeField] private Animator Animator;
+    private Animator Animator;
+
+    void Start() => Animator = GetComponent<Animator>();
 
     private void OnTriggerEnter(Collider collider)
     {

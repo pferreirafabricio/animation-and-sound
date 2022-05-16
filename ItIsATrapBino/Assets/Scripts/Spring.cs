@@ -8,6 +8,7 @@ public class Spring : MonoBehaviour
     private float Force = 2f;
 
     [SerializeField] private int QuantityToActivate = 1;
+
     private int CurrentQuantity;
 
     private void OnTriggerEnter(Collider other)
@@ -17,14 +18,15 @@ public class Spring : MonoBehaviour
         if (CurrentQuantity < QuantityToActivate)
             return;
 
-        if (!other.gameObject.CompareTag("Player"))
+        if (other.gameObject.tag != "Player")
             return;
 
-        var playerRb = other.gameObject.GetComponent<Rigidbody>();
+        var otherRigidbody = other.gameObject.GetComponent<Rigidbody>();
 
-        playerRb?.AddForce(
+        otherRigidbody?.AddForce(
             transform.up * Force, ForceMode.Impulse
         );
 
+        Debug.Log($"Collision with {other.gameObject.tag} | Qtd: {CurrentQuantity}");
     }
 }
