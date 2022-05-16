@@ -5,7 +5,7 @@ using UnityEngine;
 public class Spring : MonoBehaviour
 {
     [SerializeField]
-    private float Force = 2f;
+    private float Force = 20000f;
 
     [SerializeField] private int QuantityToActivate = 1;
 
@@ -22,10 +22,23 @@ public class Spring : MonoBehaviour
             return;
 
         var otherRigidbody = other.gameObject.GetComponent<Rigidbody>();
+        // var currentPosition = other.gameObject.transform.position;
 
-        otherRigidbody?.AddForce(
-            transform.up * Force, ForceMode.Impulse
-        );
+        // other.gameObject.transform.position = new Vector3(currentPosition.x, 1 * Force, currentPosition.z);
+
+        // Vector3 velocity = otherRigidbody.velocity;
+        // velocity.y = 0f;
+        // otherRigidbody.velocity = velocity;
+        // otherRigidbody.AddForce(Vector3.up * 1000f, ForceMode.Impulse);
+
+
+        // otherRigidbody.AddForce(
+        //     Vector3.up * Force, ForceMode.Impulse
+        // );
+
+        // Vector3 direction = Vector3.zero;
+        // direction = Vector3.up * Force;
+        // otherRigidbody.AddForce(direction * Time.fixedDeltaTime, ForceMode.Acceleration);
 
         Debug.Log($"Collision with {other.gameObject.tag} | Qtd: {CurrentQuantity}");
     }
