@@ -25,8 +25,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ## 🏄‍♂️ Quick Start
- 1. Clone this repository `git clone https://github.com/coetus-jd/unity-pirateCave.git`
- 2. Open `unity-pirateCave` folder with Unity and be happy 😄.
+ 1. Clone this repository `git clone https://github.com/pferreirafabricio/animation-and-sound.git`
+ 2. Open whatever project folder you want with Unity Hub and be happy 😄.
  
 ## :recycle: Contribute
  1. Fork this repository
