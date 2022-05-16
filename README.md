@@ -20,29 +20,23 @@ Put some images of your project here.
 ## :open_book: About 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-# Features
-- 🤠 Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- ✨ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-- 👍 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages
-
-## :bricks: This project was built with: 
-- [Awesome technology here](http://link.here.com)
+## :bricks: This project was built with:
+- [Unity](https://unity.com/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ## 🏄‍♂️ Quick Start
- 1. Clone this repository `git clone https://github.com/pferreirafabricio/inmana.git`;
- 2. Enter in the project's folder: `cd ?`
- 3. Finally `...` 😃
+ 1. Clone this repository `git clone https://github.com/coetus-jd/unity-pirateCave.git`;
+ 2. Open `unity-pirateCave` folder with Unity and be happy 😄.
  
 ## :recycle: Contribute
- 1. Fork this repository;
+ 1. Fork this repository
  2. Create a branch with your feature: ```git checkout -b my-feature```
  3. Commit your changes: ```git commit -m 'feat: My new feature'```
  4. Push your branch: ```git push origin my-feature```
 
 ## :page_with_curl:	License
-This project is under the ??? license. Take a look at the [LICENSE](LICENSE.md) file for more details.
+This project is under the MIT license. Take a look at the [LICENSE](LICENSE) file for more details.
 
 ## 📚 Learn more
 
-  * Guides: https://super.guide.com
   * <a href="https://www.flaticon.com/free-stickers/animation" title="animation stickers" align="left">Animation stickers created by inipagistudio - Flaticon</a>
